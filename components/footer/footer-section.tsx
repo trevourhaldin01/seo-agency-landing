@@ -110,10 +110,11 @@ export function FooterSection() {
           <div className="flex items-center gap-2 mb-4 md:mb-0">
             <Zap className="w-8 h-8 text-purple-500" />
             <span className="text-sm text-muted-foreground">
-              © 2024 Your Company, Inc.
+              © 2025 SEO Agency, Inc.
             </span>
           </div>
           <div className="flex gap-6">
+            <FooterLink href='https://github.com/trevourhaldin01/seo-agency-landing'>Github</FooterLink>
             <FooterLink href="https://twitter.com">𝕏</FooterLink>
             <FooterLink href="https://instagram.com">Instagram</FooterLink>
             <FooterLink href="https://youtube.com">YouTube</FooterLink>

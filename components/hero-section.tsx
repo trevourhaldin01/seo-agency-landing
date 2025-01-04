@@ -42,7 +42,7 @@ export default function HeroSection() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-4xl md:text-6xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-400 mb-6 z-50"
           >
-            Build amazing websites <br /> with <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">Zen Ops</span>
+            Build amazing websites <br /> with <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">SEO Agency</span>
           </motion.h1>
           {/* Subheading */}
           <motion.p

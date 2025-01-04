@@ -4,7 +4,7 @@ import { FooterSection } from "@/components/footer/footer-section";
 import HeroSection from "@/components/hero-section";
 import { PricingSection } from "@/components/pricing/pricing-section";
 import Testimonials from "@/components/testimonials/testimonials-section";
-import Image from "next/image";
+
 
 export default function Home() {
   return (

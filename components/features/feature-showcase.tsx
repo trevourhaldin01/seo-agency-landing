@@ -129,7 +129,8 @@ export default function SeoDashboard() {
                         </div>
                         <h2 className="text-2xl font-bold text-white">Visual reports</h2>
                         <p className="text-zinc-400">
-                        Visual insights into your site's performance.
+                        Visual insights into your site&apos;s performance.
+                        
                         </p>
 
                     </motion.div>

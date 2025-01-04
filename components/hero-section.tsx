@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { ApertureIcon, Code2, FileKey2, Sparkles,  Star,  Zap} from 'lucide-react';
+import { ApertureIcon, Code2, FileKey2, Sparkles} from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 
